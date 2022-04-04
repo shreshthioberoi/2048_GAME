@@ -1,2 +1,2 @@
 # 2048_GAME
-Mind Challenging Game (
+Mind Challenging Game 
